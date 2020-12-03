@@ -10,9 +10,6 @@ npm start
 **When done, go to your web browser and navigate to `localhost`.**
 
 
-**See? Look how easy it is!
- 
- - VioletAnimate
- 
-**
+See? Look how easy it is!
 
+- VioletAnimate
